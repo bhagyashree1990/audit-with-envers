@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/demo
+    username: postgres
+    password: mstar123
+  jpa:
+    open-in-view: false
+    generate-ddl: true
